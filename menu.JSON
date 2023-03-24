@@ -1,0 +1,40 @@
+"menu":[]
+{
+	"nombre":"Hamburguesa",
+	"descripcion":"Es una hamburguesa simple",
+	"precio":100,
+	"imagen":"img/hamburguesa.jpg"
+},
+{
+	"nombre":"Sincronizada",
+	"descripcion":"Es una sincronizada de carne",
+	"precio":70,
+	"imagen":"img/sincro.jpg"
+},
+{
+	"nombre":"Tacos",
+	"descripcion":"Una orden de tacos de trompo",
+	"precio":80,
+	"imagen":"img/tacosepicos.jpg"
+},
+{
+	"nombre":"Torta de la barda",
+	"descripcion":"Es una torta bien rellena",
+	"precio":100,
+	"imagen":"img/torta.jpg"
+},
+{
+	"nombre":"pizza",
+	"descripcion":"Es una pizza",
+	"precio":90,
+	"imagen":"img/pizza.jpg"
+},
+{
+	"nombre":"sopes",
+	"descripcion":"5 sopes con carne y frijoles",
+	"precio":50,
+	"imagen":"img/sopes.jpg"
+},
+}	
+}
+]
